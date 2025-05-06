@@ -159,5 +159,5 @@ The objective of the project was to:
 - Experience crafting complex SQL queries to solve business questions
 - Gained insights into customer behavior and service trends in the restaurant industry
 
-Feel free to check out the project and connect with me on [LinkedIn]([https://www.linkedin.com/in/yuvarajmanalyst] for more details!
+Feel free to check out the project and connect with me on [LinkedIn](https://www.linkedin.com/in/yuvarajmanalyst) for more details!
 
