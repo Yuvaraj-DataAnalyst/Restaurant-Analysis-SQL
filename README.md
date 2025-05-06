@@ -22,7 +22,7 @@ The objective of the project was to:
 ---
 
 ## 🛠️ Tools & Technologies
-- **SQL** (MySQL)
+- **SQL** (MS-SQL-STUDIO)
 - **Excel Power Query**
 - **Power BI**
 
