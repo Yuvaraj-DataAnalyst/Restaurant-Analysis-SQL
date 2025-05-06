@@ -148,54 +148,16 @@ The objective of the project was to:
 ### Output
 ![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/18.High%20Priced%20Restaurants%20Output.png?raw=true)
 
+###19. Plot the locations of restaurants on a  map using longitude and latitude coordinates
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/20.png?raw=true)
 
-
-
-
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 20. Create a histogram or bar chart to  visualize the distribution of price ranges among the restaurants
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/19.png?raw=true)
 
 ## 🧠 Key Learnings
 - Hands-on practice with **data wrangling** and **transformation**
 - Experience crafting complex SQL queries to solve business questions
 - Gained insights into customer behavior and service trends in the restaurant industry
 
----
-
-## 📎 Project Files
-- Cleaned Dataset (if allowed to be shared)
-- SQL Query Scripts
-- Dashboard Snapshots
-
----
-
-Feel free to check out the project and connect with me on [LinkedIn](https://www.linkedin.com/in/) for more details!
+Feel free to check out the project and connect with me on [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/yuvarajmanalyst) for more details!
 
