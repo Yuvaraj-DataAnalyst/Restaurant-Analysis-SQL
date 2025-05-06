@@ -58,10 +58,48 @@ The objective of the project was to:
 ### Output
 ![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/3.City%20with%20the%20highest%20number%20%20of%20restaurants%20Output.png?raw=true)
 
-### 3.Identify the city with highest restaurants
+### 4.Average Rating for the restaurants in each city 
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/4.Average%20rating%20for%20restaurants%20in%20each%20city.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/4.Average%20rating%20for%20restaurants%20in%20each%20city%20Output.png?raw=true)
+
+### 5.City With Highest Average Rating
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/5.City%20with%20the%20highest%20average%20rating.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/5.City%20with%20the%20highest%20average%20rating%20Output.png?raw=true)
+
+### 6.Calculate the Percentage of restaurants in each price category
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/6.Price%20range%20category.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/6.Price%20range%20category%20Output.png?raw=true)
+
+### 7.Determine the Percentage of restaurants that offer online delivery
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/7.Percentage%20of%20restaurants%20that%20offer%20online%20delivery.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/7.Percentage%20of%20restaurants%20that%20offer%20online%20delivery%20output.png?raw=true)
+
+
+
+
+
+
+
+
+
 ![image alt]()
 ![image alt]()
 ![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+
 
 
 
