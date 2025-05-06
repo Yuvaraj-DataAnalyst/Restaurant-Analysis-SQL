@@ -106,29 +106,52 @@ The objective of the project was to:
 ### Output
 ![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/11.Patterns%20Clusters%20Output.png?raw=true)
 
+### 12.Restaurant Chain Present in Dataset
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/12.Restaurant%20Chain%20.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/12.Restaurant%20Chain%20Output.png?raw=true)
+
+### 13.Ratings and Popularity of Different Restaurant Chains
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/13.Rating%20and%20Popularity.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/13.Rating%20and%20Popularity%20Output.png?raw=true)
+
+### 14.Analyze the text reviews to identify the most common positive and negative reviews
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/14.Positive%20and%20Negative%20.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/14.Positive%20and%20Negative%20Output.png?raw=true)
+
+### 15.Calculate Average Length of review and explore if any relationship between review length and rating
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/15.Average%20length%20of%20reviews.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/15.Average%20length%20of%20reviews%20Output.png?raw=true)
+
+### 16.Restaurant with Highest Vote and Lowest Vote
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/16.Highest%20and%20Lowest%20Vote.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/16.Highest%20and%20Lowest%20Vote%20Output.png?raw=true)
+
+### 17.Analyze correlation between the number of votes and the rating of a restaurant
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/17.Votes%20with%20Restaurant.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/17.Votes%20with%20Restaurant%20Output.png?raw=true)
+
+### 18.Determine if high-priced restaurants are more likely to offer these services
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/18.High%20Priced%20Restaurants.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/18.High%20Priced%20Restaurants%20Output.png?raw=true)
 
 
 
 
 
-
-
-
-![image alt]()
-
-
-
-
-
-
-
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
 ![image alt]()
 ![image alt]()
 ![image alt]()
