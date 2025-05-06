@@ -38,11 +38,30 @@ The objective of the project was to:
 - 🏪 **Chains & Clusters**: Large chains like Domino’s and Café Coffee Day have wide city presence
   
 ---
-## 🧾 SQL Queries
+## 🧾  Explore all the SQL Query used in this project
 
-Explore all the SQL Query used in this project
+### 1.Determine the top three most cuisines in the dataset
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/1.Top%20Three%20Most%20Cuisines.png?raw=true)
 
-### Determine the top three most common cuisines in the dataset
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/1.Top%20Three%20Most%20Cuisines%20Output.png?raw=true)
+
+### 2.Top Cuisines with percentage 
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/2.Top%20Cuisines%20with%20Percentage.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/2.Top%20Cuisines%20with%20Percentage%20Answer.png?raw=true)
+
+### 3.Identify the city with highest restaurants
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/3.City%20with%20the%20highest%20number%20%20of%20restaurants.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/3.City%20with%20the%20highest%20number%20%20of%20restaurants%20Output.png?raw=true)
+
+### 3.Identify the city with highest restaurants
+![image alt]()
+![image alt]()
+![image alt]()
 
 
 
