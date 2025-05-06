@@ -82,6 +82,29 @@ The objective of the project was to:
 ### Output
 ![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/7.Percentage%20of%20restaurants%20that%20offer%20online%20delivery%20output.png?raw=true)
 
+### 8.Average ratings of restaurants with and without online delivery
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/8.With%20&%20Without%20Delivery.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/8.With%20&%20Without%20Delivery%20Output.png?raw=true)
+
+### 9.Calculate the average number of votes received by restaurants
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/9.Average%20number%20of%20Votes.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/9.Average%20number%20of%20Votes%20Output.png?raw=true)
+
+### 10.Cuisine Combination With Tend Have Higher Ratings
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/10.Cusine%20combination%20with%20higher%20ratings.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/10.Cusine%20combination%20with%20higher%20ratings%20Output.png?raw=true)
+
+### 11.Patterns / Clusters of restaurants in specific areas
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/11.Patterns%20Clusters%20.png?raw=true)
+
+### Output
+![image alt](https://github.com/Yuvaraj-DataAnalyst/Restaurant-Analysis-SQL/blob/main/QueryOutputs/11.Patterns%20Clusters%20Output.png?raw=true)
 
 
 
@@ -90,6 +113,15 @@ The objective of the project was to:
 
 
 
+
+![image alt]()
+
+
+
+
+
+
+
 ![image alt]()
 ![image alt]()
 ![image alt]()
@@ -99,6 +131,10 @@ The objective of the project was to:
 ![image alt]()
 ![image alt]()
 ![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+
 
 
 
